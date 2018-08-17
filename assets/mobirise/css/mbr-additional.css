@@ -8337,33 +8337,36 @@ body {
 .cid-qM5S6GA3iI .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-qFmSSbGIgb {
-  background-image: url("../../../assets/images/medigem-v3-1500x868-1500x868.jpg");
+.cid-r0ZlDiFv2h {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
 }
-.cid-qFmSSbGIgb .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
+.cid-r0ZlDiFv2h .image-block {
+  margin: auto;
 }
-.cid-qFmSSbGIgb .input-group-btn {
-  justify-content: center;
+.cid-r0ZlDiFv2h figcaption {
+  position: relative;
 }
-@media (min-width: 768px) {
-  .cid-qFmSSbGIgb .content-container {
-    padding-right: 5rem;
+.cid-r0ZlDiFv2h figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r0ZlDiFv2h .image-block {
+    width: 100% !important;
   }
 }
-.cid-qFmSSbGIgb .mbr-text,
-.cid-qFmSSbGIgb .mbr-section-btn {
-  text-align: center;
+.cid-r0ZhpvUImt {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #0f7699;
 }
-.cid-qFmSSbGIgb H1 {
-  text-align: center;
-  color: #f7ed4a;
-}
-.cid-qFmSSbGIgb .mbr-text,
-.cid-qFmSSbGIgb .mbr-section-btn B {
-  color: #ffffff;
+.cid-r0Zi8KrOpn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #886586;
 }
 .cid-qJgEG9YGEy .navbar {
   background: #efefef;
@@ -8823,7 +8826,7 @@ body {
 .cid-r0Y0tmxhtc {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background53.jpg");
+  background-image: url("../../../assets/images/background50.jpg");
 }
 .cid-qM5Kf1l02l {
   padding-top: 60px;
@@ -10171,32 +10174,10 @@ body {
   border-radius: 50%;
   content: '✓';
 }
-.cid-qLuBzCtYLJ {
+.cid-r0Ze8diUcp {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qLuBzCtYLJ .title {
-  margin-bottom: 2rem;
-}
-.cid-qLuBzCtYLJ .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qLuBzCtYLJ a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qLuBzCtYLJ a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qLuBzCtYLJ .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qLuBzCtYLJ .input-group-btn {
-  display: block;
-  text-align: center;
+  background-image: url("../../../assets/images/background50.jpg");
 }
 .cid-qLuBzDroaX {
   padding-top: 90px;
