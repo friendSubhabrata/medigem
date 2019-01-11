@@ -43,7 +43,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n\r\n<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-NNVF9K4&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\r\n",
+    "google-analytics": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n\r\n<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-NNVF9K4>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\r\n\r\n<script type=\"application/javascript\">\r\n  window.tiledeskSettings = \r\n    {\r\n      projectid: \"5c3853ff7ac6b90016793b59\",\r\n    };\r\n    (function(d, s, id) {\r\n      var js, fjs = d.getElementsByTagName(s)[0];\r\n      if (d.getElementById(id)) return;\r\n      js = d.createElement(s); js.id = id; //js.async=!0;\r\n      js.src = \"https://widget.tiledesk.com/v2/tiledesk.js\";\r\n      fjs.parentNode.insertBefore(js, fjs);\r\n    }(document, 'script', 'tiledesk-jssdk'));\r\n</script>",
     "cookiesAlert": "",
     "gdpr": "",
     "sitemapSwitcher": "on"
