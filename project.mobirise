@@ -43,7 +43,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n\r\n<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-NNVF9K4>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\r\n\r\n<script type=\"text/javascript\">function add_chatinline(){var hccid=35533729;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script>",
+    "google-analytics": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n\r\n<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-NNVF9K4>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\r\n\r\n<!--Start of Tawk.to Script-->\r\n<script type=\"text/javascript\">\r\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\r\n(function(){\r\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\r\ns1.async=true;\r\ns1.src='https://embed.tawk.to/5c3ae561361b3372892fdc1f/default';\r\ns1.charset='UTF-8';\r\ns1.setAttribute('crossorigin','*');\r\ns0.parentNode.insertBefore(s1,s0);\r\n})();\r\n</script>\r\n<!--End of Tawk.to Script-->",
     "cookiesAlert": "",
     "gdpr": "",
     "sitemapSwitcher": "on"
@@ -534,7 +534,7 @@
     "products.html": {
       "settings": {
         "title": "Products | Ceragem master v3 , RL1 and compact manual acupressue alike device and Turmaline Mat",
-        "order": 17,
+        "order": 18,
         "meta_descr": "Products master v3 , RL1 and compact manual acupressue device and Turmaline Mat available in Kolkata, siliguri, Bardawan and other places in India."
       },
       "components": [
@@ -870,7 +870,7 @@
     "rl1.html": {
       "settings": {
         "title": "Ceragem RL1 alike bed in India",
-        "order": 16,
+        "order": 17,
         "meta_descr": "Ceragem RL1 alike bed in India"
       },
       "components": [
@@ -1233,7 +1233,7 @@
     "compact.html": {
       "settings": {
         "title": "Ceragem Compact alt acupressure device in India",
-        "order": 15,
+        "order": 16,
         "meta_descr": "Ceragem Compact alt acupressure device in India"
       },
       "components": [
@@ -1594,7 +1594,7 @@
     "ceratonic.html": {
       "settings": {
         "title": "Ceragem ceratonic alt mat in India",
-        "order": 14,
+        "order": 15,
         "meta_descr": "Ceragem ceratonic alike mat in India."
       },
       "components": [
@@ -1955,7 +1955,7 @@
     "master-v3.html": {
       "settings": {
         "title": "Ceragem Master V3 alt bed in India",
-        "order": 12,
+        "order": 13,
         "meta_descr": "Ceragem Master V3 alt bed in India, Kolkata, Howrah, siliguri, Bardhwman, Maslandapur, Bashirhat"
       },
       "components": [
@@ -2435,7 +2435,7 @@
     "ceragem-benefits.html": {
       "settings": {
         "title": "Ceragem therapy benefits",
-        "order": 11,
+        "order": 12,
         "meta_descr": "Ceragem therapy benefits: Ceragem master v3 plus bed far infrared massage therapy is very beneficial to human beings with no side effect an amazing spine management device with various alternative medicine therapies."
       },
       "components": [
@@ -2920,7 +2920,7 @@
     "ceragem-principle.html": {
       "settings": {
         "title": "Ceragem 7 principle to cure our disease",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -3411,7 +3411,7 @@
     "weight-loss.html": {
       "settings": {
         "title": "Best Weight Loss center in Kolkata",
-        "order": 9,
+        "order": 10,
         "meta_descr": "Best Weight Loss center in Kolkata WEIGHT LOSS, TUMMY TREATMENT, FIGURE CORRECTION, FIGURE TONING, BODY SHAPING, BODY TROCK, INCH LOSS, FACE LIFTING, FIGURE LIFTING, BODY SCULPING, BREAST FIRMING, BREAST TONING, MUSCLE STIMULATION"
       },
       "components": [
@@ -3874,7 +3874,7 @@
     "terms-conditions.html": {
       "settings": {
         "title": "Terms and Conditions\n",
-        "order": 8,
+        "order": 9,
         "meta_descr": "Welcome to www.medigem.in. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Medigem’s relationship with you in relation to this website."
       },
       "components": [
@@ -4155,7 +4155,7 @@
     "privacy-policy.html": {
       "settings": {
         "title": "Privacy Policy",
-        "order": 6,
+        "order": 7,
         "meta_descr": "To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested)."
       },
       "components": [
@@ -4436,7 +4436,7 @@
     "master-v3-kolkata.html": {
       "settings": {
         "title": "Master V3 price discounted in Kolkata center",
-        "order": 13,
+        "order": 14,
         "meta_descr": "Ceragem Master V3 alt bed in India, Kolkata, Howrah, siliguri, Bardhwman, Maslandapur, Bashirhat"
       },
       "components": [
@@ -4916,7 +4916,7 @@
     "shipping-payment-info.html": {
       "settings": {
         "title": "Shipping & Payment Info",
-        "order": 5,
+        "order": 6,
         "meta_descr": "For International buyers, Ceragem Master V3 alike product orders are shipped and delivered through registered international courier companies and/or International speed post only. For domestic buyers, Ceragem Master V3 alike product orders are shipped through registered domestic courier companies and /or speed post only."
       },
       "components": [
@@ -5198,7 +5198,7 @@
     "master-v3-offer-kolkata.html": {
       "settings": {
         "title": "MG Master V3 Bed 25 % Off in Kolkata Center",
-        "order": 4,
+        "order": 5,
         "meta_descr": "Ceragem Master V3 alike bed now 25% off in Kolkata Center. limited time offer. buy now. Call +91-700 3821 400"
       },
       "components": [
@@ -5241,7 +5241,7 @@
     "master-v3-bangladesh.html": {
       "settings": {
         "title": "Ceragem Master V3 in Dhaka, Bangladesh Phone 01935283510",
-        "order": 3,
+        "order": 4,
         "meta_descr": "Upto one lakh taka discount. Ceragem Master V3 massage bed in Bangladesh. Huge demand. Address Dhaka Center Office, Bangladesh, Phone +880-1935283510"
       },
       "components": [
@@ -5417,7 +5417,7 @@
     "return-policy.html": {
       "settings": {
         "title": "Return and Refund Policy",
-        "order": 7,
+        "order": 8,
         "meta_descr": "Cancellations will be considered only if the request is made within 24 hours of placing an order. However, the cancellation request will not be entertained if the orders have been communicated to the vendors/merchants and they have initiated the process of shipping them.\nThere is no cancellation of orders placed under the Same Day Dispatch category."
       },
       "components": [
@@ -5698,7 +5698,7 @@
     "ceragem-service-center.html": {
       "settings": {
         "title": "Ceragem Service Center in Kolkata",
-        "order": 2,
+        "order": 3,
         "meta_descr": "We provide servicing of all type of Ceragem massage be like Ceragem Master V3, Ceragem RL1, Ceragem Compact at Kolkata and all over West Bengal, India. We also sell Ceragem Master V3 bed and other massage bed."
       },
       "components": [
@@ -5977,7 +5977,7 @@
     "hexa-mat.html": {
       "settings": {
         "title": "Ceragem Hexa Tourmaline Mini Mat",
-        "order": 1,
+        "order": 2,
         "meta_descr": "Ceragem Hexa Tourmaline Mini Mat"
       },
       "components": [
