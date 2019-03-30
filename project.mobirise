@@ -43,7 +43,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "\r\n\r\n<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-NNVF9K4>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\r\n\r\n",
+    "google-analytics": "\r\nGTM-NNVF9K4\r\n\r\n",
     "cookiesAlert": "",
     "gdpr": "",
     "sitemapSwitcher": "on",
