@@ -63,9 +63,6 @@
 		<loc>https://www.medigem.in/ceragem-details.html</loc>
 	</url>
 	<url>
-		<loc>https://www.medigem.in/ceragem-bardhaman.html</loc>
-	</url>
-	<url>
 		<loc>https://www.medigem.in/ceragem-howrah.html</loc>
 	</url>
 	<url>
@@ -73,5 +70,8 @@
 	</url>
 	<url>
 		<loc>https://www.medigem.in/ceragem-service-center.html</loc>
+	</url>
+	<url>
+		<loc>https://www.medigem.in/bardhaman-ceragem.html</loc>
 	</url>
 </urlset>
